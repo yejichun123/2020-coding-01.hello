@@ -81,7 +81,7 @@ git remote add origin https://gitbhub.com/yejichun123/repo
 
 4. git에 commit 및 push
 
-![vscode](.img/c03.jpg)
+![vscode](./img/c03.jpg)
 
 - 위의 그림에서 3번 아이콘을 클릭하여 **빈 창에 설명을 쓰고** ```ctrl+enter```로 commit한다.
 - ```...```을 클릭하여 푸쉬를 선택하여 github에 업로드 한다.
