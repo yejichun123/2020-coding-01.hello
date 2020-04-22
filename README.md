@@ -59,7 +59,7 @@
 
 ![git](./img/c06.jpg)
 
-5. ** 각 컴퓨터에서 한 번만 수행할 작업**
+5. **각 컴퓨터에서 한 번만 수행할 작업**
 ```bash
 git config --global user.name "booldook"
 git config --global user.email "boooldook@gmailcom"
