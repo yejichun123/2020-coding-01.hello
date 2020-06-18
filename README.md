@@ -20,7 +20,7 @@
 
 ### 확장기능(Extension third-party plugin)을 설치한다.
 
-![vscode](.img/c10.jpg)
+![vscode](.img/c09.jpg)
 
 
 # 프로젝트 시작
